@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+saved/
+data/
+logs/
+*.log
+*.pt
+ic3net_envs.egg-info/

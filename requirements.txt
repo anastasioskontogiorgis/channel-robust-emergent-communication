@@ -1,0 +1,5 @@
+numpy==1.23.5
+visdom==0.1.4
+torch==1.13.1
+Pillow==7.2.0
+gym==0.18.0

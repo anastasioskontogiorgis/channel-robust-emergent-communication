@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite the papers below."
+title: "Channel-Robust Emergent Communication — CAV benchmark framework"
+type: software
+authors:
+  - family-names: Kontogiorgis
+    given-names: Anastasios
+  - family-names: Bouroche
+    given-names: Melanie
+    orcid: "https://orcid.org/0000-0003-4921-3835"
+preferred-citation:
+  type: article
+  title: "CAV Unsignalised Intersection Crossing with Unreliable Emergent Communication: A Comprehensive Analysis under Diverse Disruptions"
+  journal: "European Journal of Artificial Intelligence (ATT 2024 Special Issue)"
+  year: 2026
+  # doi: TODO when camera-ready is published
+  authors:
+    - family-names: Kontogiorgis
+      given-names: Anastasios
+    - family-names: Bouroche
+      given-names: Melanie
+  
