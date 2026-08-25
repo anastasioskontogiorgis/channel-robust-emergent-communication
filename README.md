@@ -1,4 +1,4 @@
- Channel-Robust Emergent Communication — CAV benchmark framework
+#Channel-Robust Emergent Communication — CAV benchmark framework
 
 *The experimental framework behind two publications on how state-of-the-art emergent-communication models for connected autonomous vehicles behave when communication stops being perfect: additive noise, message loss, jumbling and delays, across three difficulty levels of the standard unsignalised-intersection benchmark.*
 
