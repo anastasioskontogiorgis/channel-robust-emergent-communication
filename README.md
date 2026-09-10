@@ -21,7 +21,7 @@ disturbance implementations used in the papers above. Where the paper-era code i
 | Realistic jumbling (collision mixing, stale–current overlap) | Physically motivated message mixing | Random permutation |
 | Calibration curriculum sampler | Randomised single + compound corruption mixtures for training-time exposure | — |
 
-These primitives powered the calibration of the reliability-aware **NoisyGraph-RC** model; the NoisyGraph models themselves will be released alongside their forthcoming papers. Full function-to-experiment mapping and the thesis validation/calibration schedules: [`noise_primitives/README.md`](noise_primitives/README.md). See [my research page](#) for the thesis story and results.
+These primitives powered the calibration of the reliability-aware **NoisyGraph-RC** model; the NoisyGraph models themselves will be released alongside their forthcoming papers. Full function-to-experiment mapping and the thesis validation/calibration schedules: [`noise_primitives/README.md`](noise_primitives/README.md). See [my research page](https://anastasioskontogiorgis.github.io/research.html) for the thesis story and results.
 
 ## What's here
 
